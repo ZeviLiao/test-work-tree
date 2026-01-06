@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git fetch:*)"
+      "Bash(git fetch:*)",
+      "Bash(git worktree:*)",
+      "Bash(git -C \"C:/Users/zevi.liao/lab/react/test-work-tree\" log --oneline)",
+      "Bash(git -C \"C:/Users/zevi.liao/lab/react/test-work-tree.worktrees/aa\" log --oneline)",
+      "Bash(git -C:*)",
+      "Bash(git merge:*)",
+      "Bash(cat:*)"
     ]
   }
 }
