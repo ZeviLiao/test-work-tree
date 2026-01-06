@@ -7,7 +7,10 @@
       "Bash(git -C \"C:/Users/zevi.liao/lab/react/test-work-tree.worktrees/aa\" log --oneline)",
       "Bash(git -C:*)",
       "Bash(git merge:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)"
     ]
   }
 }
